@@ -1,0 +1,1 @@
+Esse é o meu primeiro projeto desenvolvido no Programa One - Oracle Next Education: um jogo, cujo o objetivo é descobrir um número secreto de 1 a 100. Durante o processo de chutes, o sistema indica, baseado no seu palpite, se o numero correto é menor ou maior do que o chute atual. Utilizei o sistema ResponsiveVoice, visando resultados mais acessíveis a comunidade.
